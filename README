@@ -1,0 +1,5 @@
+Python scripts written for self educational purpose.
+guids1.0 		- first working version written for code golf challenge, to print n of guids in shortest lines of code
+guids1.1 		- final version written for code golf challenge, to print n of guids in shortest lines of code
+guids2			- guids1.1 with automated start. Ussage: py guids2.py <count of guids to write to file>
+NuGetScanner	- script prints out all "*.csproj" files and their "packages.config" from current dir, for purpose of determining which projects uses nuget and which don't
